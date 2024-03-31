@@ -1,0 +1,641 @@
+[
+    {
+        "timestamp": 1711872455314,
+        "data": [
+            {
+                "system_name": "Korotep",
+                "system_name_lower": "korotep",
+                "system_id": "5a46ca5353582c78c9455efc",
+                "state": "boom",
+                "influence": 0.43513,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-31T03:04:21.000Z"
+            },
+            {
+                "system_name": "Kazatobi",
+                "system_name_lower": "kazatobi",
+                "system_id": "5a0e46e0d22c775be0828caf",
+                "state": "boom",
+                "influence": 0.823054,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    },
+                    {
+                        "state": "infrastructurefailure"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T14:50:28.000Z"
+            },
+            {
+                "system_name": "Madjandji",
+                "system_name_lower": "madjandji",
+                "system_id": "5a034b5cd22c775be0624a7e",
+                "state": "boom",
+                "influence": 0.700897,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T03:14:13.000Z"
+            },
+            {
+                "system_name": "Wakaulang",
+                "system_name_lower": "wakaulang",
+                "system_id": "5a147b0e53582c78c9256524",
+                "state": "expansion",
+                "influence": 0.797418,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    },
+                    {
+                        "state": "expansion"
+                    }
+                ],
+                "pending_states": [],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-31T02:58:12.000Z"
+            },
+            {
+                "system_name": "Orniaci",
+                "system_name_lower": "orniaci",
+                "system_id": "5a03bcb3d22c775be063a14b",
+                "state": "boom",
+                "influence": 0.739174,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T02:27:46.000Z"
+            },
+            {
+                "system_name": "Heru",
+                "system_name_lower": "heru",
+                "system_id": "5a06f373d22c775be06c4659",
+                "state": "none",
+                "influence": 0.24429,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-14T18:38:53.000Z"
+            },
+            {
+                "system_name": "Sekhmetures",
+                "system_name_lower": "sekhmetures",
+                "system_id": "59f9bff9d22c775be04856cd",
+                "state": "none",
+                "influence": 0.210423,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-31T00:08:36.000Z"
+            },
+            {
+                "system_name": "Kutjang",
+                "system_name_lower": "kutjang",
+                "system_id": "5a05a18dd22c775be0684d75",
+                "state": "boom",
+                "influence": 0.782783,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [
+                    {
+                        "state": "pirateattack",
+                        "trend": 0
+                    }
+                ],
+                "conflicts": [],
+                "updated_at": "2024-03-30T03:48:47.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector GR-V c2-30",
+                "system_name_lower": "pegasi sector gr-v c2-30",
+                "system_id": "5a0830bfd22c775be0702828",
+                "state": "expansion",
+                "influence": 0.073,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "expansion"
+                    }
+                ],
+                "pending_states": [],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-20T23:22:32.000Z"
+            },
+            {
+                "system_name": "Hai Si",
+                "system_name_lower": "hai si",
+                "system_id": "5a0064e2d22c775be05b0292",
+                "state": "expansion",
+                "influence": 0.186693,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "expansion"
+                    }
+                ],
+                "pending_states": [],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-22T10:14:07.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector MD-R b5-3",
+                "system_name_lower": "pegasi sector md-r b5-3",
+                "system_id": "5a03a61fd22c775be0636dbb",
+                "state": "boom",
+                "influence": 0.887,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [
+                    {
+                        "state": "outbreak",
+                        "trend": 0
+                    }
+                ],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:37:58.000Z"
+            },
+            {
+                "system_name": "Sumeru",
+                "system_name_lower": "sumeru",
+                "system_id": "5a31bd0a53582c78c9db5952",
+                "state": "none",
+                "influence": 0.107249,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-27T01:52:53.000Z"
+            },
+            {
+                "system_name": "Hirpinyi",
+                "system_name_lower": "hirpinyi",
+                "system_id": "59ea78f6d22c775be0b66164",
+                "state": "none",
+                "influence": 0.749509,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T13:23:20.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector KJ-E a13-0",
+                "system_name_lower": "pegasi sector kj-e a13-0",
+                "system_id": "5a49553d53582c78c9ae6786",
+                "state": "boom",
+                "influence": 0.770378,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T04:14:35.000Z"
+            },
+            {
+                "system_name": "Karas",
+                "system_name_lower": "karas",
+                "system_id": "5a1438b353582c78c9240ce8",
+                "state": "boom",
+                "influence": 0.780439,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T03:30:21.000Z"
+            },
+            {
+                "system_name": "Xuangorona",
+                "system_name_lower": "xuangorona",
+                "system_id": "59f7ed9ed22c775be03b1285",
+                "state": "boom",
+                "influence": 0.637081,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:08:55.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector FD-G a12-2",
+                "system_name_lower": "pegasi sector fd-g a12-2",
+                "system_id": "5a22f8f153582c78c96664ea",
+                "state": "none",
+                "influence": 0.25974,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-15T10:08:56.000Z"
+            },
+            {
+                "system_name": "Atuatus",
+                "system_name_lower": "atuatus",
+                "system_id": "5a07a373d22c775be06edafb",
+                "state": "boom",
+                "influence": 0.628514,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:16:20.000Z"
+            },
+            {
+                "system_name": "Wirngir",
+                "system_name_lower": "wirngir",
+                "system_id": "5a7538f8d1b6a37c3c8cd525",
+                "state": "boom",
+                "influence": 0.743487,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T01:47:23.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector LS-T c3-16",
+                "system_name_lower": "pegasi sector ls-t c3-16",
+                "system_id": "5a0cb035d22c775be07bc157",
+                "state": "boom",
+                "influence": 0.751527,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [
+                    {
+                        "state": "terrorism",
+                        "trend": 0
+                    }
+                ],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:30:48.000Z"
+            },
+            {
+                "system_name": "Pipet",
+                "system_name_lower": "pipet",
+                "system_id": "59f13c17d22c775be0e9d174",
+                "state": "boom",
+                "influence": 0.742,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T14:50:45.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector FR-V c2-12",
+                "system_name_lower": "pegasi sector fr-v c2-12",
+                "system_id": "59f59458d22c775be0789f09",
+                "state": "boom",
+                "influence": 0.773904,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:22:20.000Z"
+            },
+            {
+                "system_name": "Bhumliaurt",
+                "system_name_lower": "bhumliaurt",
+                "system_id": "59ed0856d22c775be091c285",
+                "state": "none",
+                "influence": 0.890244,
+                "happiness": "none",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "outbreak",
+                        "trend": 0
+                    },
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-31T01:34:08.000Z"
+            },
+            {
+                "system_name": "Hajand",
+                "system_name_lower": "hajand",
+                "system_id": "59ee5c1ed22c775be02cec5f",
+                "state": "boom",
+                "influence": 0.572277,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T15:05:50.000Z"
+            },
+            {
+                "system_name": "Melingo",
+                "system_name_lower": "melingo",
+                "system_id": "5a987eadd1b6a37c3ccdc02b",
+                "state": "boom",
+                "influence": 0.669014,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-30T14:56:08.000Z"
+            },
+            {
+                "system_name": "HIP 109182",
+                "system_name_lower": "hip 109182",
+                "system_id": "5a088680d22c775be0718183",
+                "state": "expansion",
+                "influence": 0.568548,
+                "happiness": "$faction_happinessband1;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    },
+                    {
+                        "state": "civilliberty"
+                    },
+                    {
+                        "state": "expansion"
+                    }
+                ],
+                "pending_states": [],
+                "recovering_states": [
+                    {
+                        "state": "publicholiday",
+                        "trend": 0
+                    }
+                ],
+                "conflicts": [],
+                "updated_at": "2024-03-31T00:27:06.000Z"
+            },
+            {
+                "system_name": "Bobole",
+                "system_name_lower": "bobole",
+                "system_id": "5a0747e6d22c775be06d9cbc",
+                "state": "boom",
+                "influence": 0.082164,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-29T19:53:15.000Z"
+            },
+            {
+                "system_name": "Pegasi Sector QJ-P b6-6",
+                "system_name_lower": "pegasi sector qj-p b6-6",
+                "system_id": "5a02ee6fd22c775be06149e5",
+                "state": "boom",
+                "influence": 0.686627,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [
+                    {
+                        "state": "boom"
+                    }
+                ],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-31T00:27:26.000Z"
+            },
+            {
+                "system_name": "Wuonjulnju",
+                "system_name_lower": "wuonjulnju",
+                "system_id": "59fe2b58d22c775be054b884",
+                "state": "boom",
+                "influence": 0.092814,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [],
+                "recovering_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "conflicts": [],
+                "updated_at": "2024-03-25T13:42:11.000Z"
+            },
+            {
+                "system_name": "HIP 107040",
+                "system_name_lower": "hip 107040",
+                "system_id": "59e9d31fd22c775be0992f1b",
+                "state": "boom",
+                "influence": 0.091827,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-28T03:11:27.000Z"
+            },
+            {
+                "system_name": "Ross 187",
+                "system_name_lower": "ross 187",
+                "system_id": "59fcb756d22c775be0505d16",
+                "state": "none",
+                "influence": 0.091091,
+                "happiness": "$faction_happinessband2;",
+                "active_states": [],
+                "pending_states": [
+                    {
+                        "state": "expansion",
+                        "trend": 0
+                    }
+                ],
+                "recovering_states": [],
+                "conflicts": [],
+                "updated_at": "2024-03-28T14:25:52.000Z"
+            }
+        ]
+    }
+]
