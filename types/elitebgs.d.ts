@@ -7,7 +7,7 @@ interface Factions {
         government: string,
         name: string,
         eddb_id: null,
-        faction_presence: FractionPresence[],
+        faction_presence: FactionPresence[],
         government: string,
         name: string,
         name_lower: string,
@@ -24,7 +24,7 @@ interface Factions {
     nextPage: null
 }
 
-interface FractionPresence {
+interface FactionPresence {
     system_name: string,
     system_name_lower: string,
     system_id: string,
