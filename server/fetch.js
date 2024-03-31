@@ -20,6 +20,10 @@ fetch("https://elitebgs.app/api/ebgs/v5/factions?name=Landstrider Legion")
         data: json.docs[0].faction_presence
     })
 
+    if (archive.length > 30) {
+        archive.pop();
+    }
+
     fs.writeFileSync(archiveFile, Buffer.from(JSON.stringify(archive), "utf8"), {encoding: "utf8"});
     console.log("Done! Process exiting.")
 })
